@@ -416,6 +416,27 @@ MEDIA QUERIES
     width: 60%;
     margin-top: 0;
   }
+
+  .secondary__heading,
+  .heading__text {
+    text-align: center;
+  }
+
+  .choose__heading {
+    font-size: 2rem;
+  }
+
+  .choose__text {
+    font-size: 1.5rem;
+  }
+
+  .article__heading {
+    font-size: 2rem;
+  }
+
+  .article__text {
+    font-size: 1.5rem;
+  }
 }
 
 @media only screen and (max-width: 43.75em) {
@@ -497,6 +518,10 @@ MEDIA QUERIES
   .nav__cta-box {
     display: none;
   }
+
+  .attribution {
+    font-size: 1.4rem;
+  }
 }
 
 @media only screen and (max-width: 37.5em) {
@@ -515,6 +540,10 @@ MEDIA QUERIES
 
   .article {
     padding: 2rem 5rem;
+  }
+
+  .article__writer {
+    font-size: 1.3rem;
   }
 
   .footer__section {
