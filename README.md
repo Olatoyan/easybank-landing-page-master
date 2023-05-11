@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Easybank solution](https://github.com/Olatoyan/easybank-landing-page-master)
-- Live Site URL: [Easybank landing page](https://toyan-easybank.netlify.app)
+- Solution URL: [https://github.com/Olatoyan/easybank-landing-page-master](https://github.com/Olatoyan/easybank-landing-page-master)
+- Live Site URL: [https://toyan-easybank.netlify.app](https://toyan-easybank.netlify.app)
 
 ## My process
 
