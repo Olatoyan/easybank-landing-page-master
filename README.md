@@ -42,4 +42,4 @@ How to work with well mobile navigations
 ## Author
 
 - Frontend Mentor - [@olatoyan](https://www.frontendmentor.io/profile/olatoyan)
-- Twitter - [@_Annonnymouss_](https://www.twitter.com/_Annonnymouss_)
+- Twitter - [@Toyan](https://www.twitter.com/_Annonnymouss_)
