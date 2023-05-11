@@ -129,9 +129,6 @@ END HEADER SECTION
 /////////////////// */
 
 .hero__section {
-  /* display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  align-items: center; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -393,7 +390,7 @@ MEDIA QUERIES
 }
 @media only screen and (max-width: 56.25em) {
   html {
-    font-size: 50%;
+    /* font-size: 50%; */
   }
   .hero__section {
     flex-direction: column;
@@ -490,6 +487,7 @@ MEDIA QUERIES
 
   .header {
     position: fixed;
+    top: 0;
     width: 100vw;
     z-index: 5;
     background-color: #ffffffea;
