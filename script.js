@@ -25,3 +25,4 @@ overlay.addEventListener("click", closeOverlay);
 
 let s;
 let q;
+let x;
