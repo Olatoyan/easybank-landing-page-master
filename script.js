@@ -22,3 +22,5 @@ navLinks.forEach((navLink) => {
 
 closeBtn.addEventListener("click", closeOverlay);
 overlay.addEventListener("click", closeOverlay);
+
+let s;
