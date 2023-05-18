@@ -24,3 +24,4 @@ closeBtn.addEventListener("click", closeOverlay);
 overlay.addEventListener("click", closeOverlay);
 
 let s;
+let q;
